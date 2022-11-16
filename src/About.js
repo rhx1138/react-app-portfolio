@@ -17,7 +17,7 @@ function About () {
           Since the beginning of my journey as a freelance designer and
           developer, I've done remote work for agencies
           and collaborated with talanted people to create digital products
-          for both business and consumer use.
+          for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a tim
         </p>
         <p className="text-lg py-2 leading-8">
           I offer from a wide range of services, including brand design,
