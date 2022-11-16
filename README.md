@@ -3,7 +3,7 @@ A new react version of my portfolio
 
 # Description
  
-An updated version of my portfolio of projects
+An updated, single page version of my portfolio of projects
  
 # Link to Website
 
