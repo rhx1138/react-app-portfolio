@@ -17,7 +17,7 @@ function Contact () {
                   rounded-md
                   shadow-sm
                 "
-                placeholder="Joe Bloggs"
+                placeholder="Enter Name"
               />
             </label>
             <label class="block mb-6">
@@ -34,7 +34,7 @@ function Contact () {
                   shadow-sm
                  
                 "
-                placeholder="joe.bloggs@example.com"
+                placeholder="someone@example.com"
                 required
               />
             </label>
@@ -52,7 +52,7 @@ function Contact () {
                 
                 "
                 rows="3"
-                placeholder="Tell us what you're thinking about..."
+                placeholder="Write something..."
               ></textarea>
             </label>
             <div class="mb-6">
